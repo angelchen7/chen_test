@@ -1,4 +1,5 @@
-# Angel was here
+# Angel and Camila's Test Repo (we are both here!!!!)
+
 test repo for git / GitHub lesson
 
 ## Purpose
