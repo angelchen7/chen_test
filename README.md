@@ -7,3 +7,7 @@ test repo for git / GitHub lesson
 
 ## Creator
 - Angel is a data analyst working for the Long Term Ecological Research (LTER) Network and NCEAS Learning Hub. You can contact her at [anchen@nceas.ucsb.edu](mailto:anchen@nceas.ucsb.edu).
+
+
+## Collaborator
+- Camila is a collaborator in this project.
