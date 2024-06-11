@@ -1,4 +1,4 @@
-# chen_test
+# Angel and Camila's Test Repo
 test repo for git / GitHub lesson
 
 ## Purpose
