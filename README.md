@@ -11,3 +11,6 @@ test repo for git / GitHub lesson
 
 ## Collaborator
 - Camila is a collaborator in this project.
+
+## Logistics
+This coreR course took place in Sacramento from June 10-13.
